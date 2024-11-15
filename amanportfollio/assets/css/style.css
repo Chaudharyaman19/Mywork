@@ -9,7 +9,7 @@
 /*-----------------------------------*\
   #CUSTOM PROPERTY
 \*-----------------------------------*/
-.sidebar {
+/* .sidebar {
   background-color: black !important;
 }
 .navbar {
@@ -55,7 +55,7 @@ article.active {
   background: var(--bg-gradient-jet);
   border-radius: inherit;
   z-index: -1;
-}
+} */
 :root {
   /**
    * colors
